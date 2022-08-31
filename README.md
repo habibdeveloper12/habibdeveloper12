@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibdeveloper12" alt="habibdeveloper12" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
-
-- 👨‍💻 All of my projects are available at [https://starlit-profiterole-049fe5.netlify.app](https://starlit-profiterole-049fe5.netlify.app)
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Reactjs,js,expressjs**
 
