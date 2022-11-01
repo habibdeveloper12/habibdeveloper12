@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **Reactjs,js,expressjs,PHP,laravel**
+- 💬 Ask me about **Reactjs,js,Nextjs,Typescript, expressjs**
 
 - 📫 How to reach me **habiburrahman19@gmail.com**
 
