@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibdeveloper12" alt="habibdeveloper12" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **Reactjs,js,Nextjs,Typescript, expressjs**
+- 💬 Ask me about **Reactjs,js,Nextjs,Typescript, expressjs,nodejs**
 
 - 📫 How to reach me **habiburrahman19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rkF-veQ9a8n33ilMjWqcPbmMlCt6Xnp-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CA9QnEUVi3X2sCk3ZQfmX58elNt2MHIX/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
