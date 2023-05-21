@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibdeveloper12" alt="habibdeveloper12" /></a> </p>
 
 
-- 💬 Ask me about **Reactjs,js,Nextjs,Typescript, expressjs,nodejs**
+- 💬 Ask me about **Reactjs,js,Nextjs,Typescript, expressjs,nodejs,graphql,docker,java,c#**
 
-- 📫 How to reach me **habiburrahman19@gmail.com**
+- 📫 How to reach me **habiburdeveloper7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CA9QnEUVi3X2sCk3ZQfmX58elNt2MHIX/view?usp=sharing)
 
