@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibdeveloper12" alt="habibdeveloper12" /></a> </p>
 
 
-- 💬 Ask me about **Reactjs,js,Nextjs,Typescript, expressjs,nodejs,graphql,docker,java,c#**
+- 💬 Ask me about **Reactjs,js,Vuejs,Nextjs,Typescript, expressjs,nodejs,graphql,docker,java,c#**
 
 - 📫 How to reach me **habiburdeveloper7@gmail.com**
 
